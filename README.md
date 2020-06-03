@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Simple Machine Learning With Javascript
+  Machine learning With Javascript
 </h1>
 
 Basic machine learning and neural networks using [Brain.js](https://github.com/BrainJS/brain.js).
