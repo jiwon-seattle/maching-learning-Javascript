@@ -8,9 +8,7 @@ Basic machine learning and neural networks using [Brain.js](https://github.com/B
 ## 🚀 Quick start
 
 1.  **To see data training result**
-
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
-
+.
     ```shell
     # after cloning the repository 
     `node index` 
