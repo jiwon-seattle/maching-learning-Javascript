@@ -1,0 +1,39 @@
+
+[
+{
+  "text": "Everything involved with what the user sees, including design and some languages like HTML and CSS.",
+  "category": "frontend"
+},
+{
+  "text": "A web designer, you guessed it, designs websites.",
+  "category": "frontend"
+},
+{
+  "text": "A User Interface (UI) Designer is basically a visual designer and is generally focused on design.",
+  "category": "frontend"
+},
+{
+  "text": "User Experience (UX) designers work in the front-end, studying and researching how people use the sites.",
+  "category": "frontend"
+},
+{
+  "text": "A Front-End Developer or Designer can create a site without any back-end development.",
+  "category": "frontend"
+},
+{
+  "text": "Everything the user can't see in the browser, like databases and servers.",
+  "category": "backend"
+},
+{
+  "text": "Things like security, structure, and content management.",
+  "category": "backend"
+},
+{
+  "text": "A dynamic site is a site that's constantly changing and updated in real-time.",
+  "category": "backend"
+},
+{
+  "text": "A dynamic site requires a database to work properly.",
+  "category": "backend"
+}
+]
